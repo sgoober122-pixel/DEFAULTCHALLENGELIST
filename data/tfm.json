@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "password": "Free",
     "records": [
+        {
+            "user": "r2okay",
+            "link": "",
+            "percent": 100,
+            "hz": 90
+        }
         
     ]
 }
